@@ -7,7 +7,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	pb "ccnp/quote/proto"
+	pb "github.com/hairongchen/ccnp-quote-sdk/ccnp/quote/proto"
 )
 
 const (
